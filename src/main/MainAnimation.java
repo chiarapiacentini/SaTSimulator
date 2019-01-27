@@ -110,6 +110,7 @@ public class MainAnimation extends Observable implements Runnable, Observer {
         }
         List<List<Position>> cities = grid.getCitiesPositions();
         List<Position> possibleDestination = cities.get(Parameters.cityIndex);
+        System.out.println("possible destinations " + cities.size());
         int index = State.rand.nextInt(possibleDestination.size());
         Position destination = possibleDestination.get(index);
         Target target = new Target(startPosition.getLatitude(), startPosition.getLongitude(),

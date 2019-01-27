@@ -81,7 +81,7 @@ public class Visualizer extends JPanel implements Observer{
 
 		// Display the viewer in a JFrame
 		frame = new JFrame("Scotland");
-        frame.setLocation(1920,0);
+        frame.setLocation(0,0);
         frame.getContentPane().add(mapViewer);
 		//frame.setSize(1920, 1024);
 		frame.setSize(1280, 1024);
