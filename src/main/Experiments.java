@@ -5,7 +5,6 @@ import java.io.FileNotFoundException;
 import java.io.PrintStream;
 import java.util.Observable;
 import java.util.Observer;
-import java.util.Random;
 
 // perform experiments
 public class Experiments extends Observable implements Runnable, Observer{

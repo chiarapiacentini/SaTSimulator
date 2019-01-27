@@ -4,12 +4,10 @@ import detection.CPManager;
 import detection.PDDLManager;
 import detection.UAVDetection;
 import detection.Planning;
-import javafx.geometry.Pos;
 import map.MapOSM;
 import patterns.SearchPattern;
 
 import java.io.*;
-import java.lang.reflect.Parameter;
 import java.util.List;
 import java.util.Observable;
 import java.util.Observer;

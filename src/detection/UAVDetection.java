@@ -3,7 +3,6 @@ package detection;
 import java.util.*;
 import java.util.stream.Collectors;
 
-import javafx.geometry.Pos;
 import main.*;
 import patterns.*;
 import main.UAVGrid.*;

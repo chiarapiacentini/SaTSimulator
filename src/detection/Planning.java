@@ -1,10 +1,8 @@
 package detection;
 
-import com.mysql.fabric.xmlrpc.base.Param;
 import main.*;
 import patterns.SearchPattern;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;

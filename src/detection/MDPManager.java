@@ -1,14 +1,11 @@
 package detection;
 
 import main.Parameters;
-import main.Position;
 import main.State;
 import main.UAV;
 import patterns.SearchPattern;
 
 import java.io.*;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
 import java.util.*;
 
 // TODO there is missmatch between name of uavs of solver and actual names in simulator

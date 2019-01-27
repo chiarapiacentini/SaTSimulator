@@ -1,7 +1,6 @@
 package detection;
 
 import main.Position;
-import main.State;
 import main.UAV;
 import patterns.SearchPattern;
 
