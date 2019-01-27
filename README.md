@@ -1,6 +1,6 @@
 # SaTSimulator
 
-Simulator for Search and Track with UAVs. For more information visit our (WikiPage)[https://graphhopper.com]
+Simulator for Search and Track with UAVs. For more information visit our [WikiPage](https://github.com/chiarapiacentini/SaTSimulator/wiki)
 
 ## Dependencies
 
