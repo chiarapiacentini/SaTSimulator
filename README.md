@@ -1,12 +1,12 @@
 # SaTSimulator
 
-Simulator for Search and Track with UAVs. For more information visit our [WikiPage](https://github.com/chiarapiacentini/SaTSimulator/wiki)
+Simulator for Search and Track with UAVs. For more information visit our [WikiPage](https://github.com/chiarapiacentini/SaTSimulator/wiki).
 
 ## Dependencies
 
 The simulator is written in JAVA1.8. Before compiling make sure to have the Java machine installed on your computer.
 
-The simulators depends on some open-source external libraries. For your convenience the necessary jar files are all in the ``libs`` folder:
+The simulator depends on some open-source external libraries. For your convenience the necessary jar files are all in the ``libs`` folder:
 
 - [Graphhopper](https://graphhopper.com): routing libraries
 - [JMapViewer](https://wiki.openstreetmap.org/wiki/JMapViewer): Java component which allows to easily integrate an Open Street Map (OSM) view into a Java application
