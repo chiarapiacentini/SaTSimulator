@@ -1,1 +1,16 @@
-placeholder
+Description
+===========
+
+This file lists all people that actively contributed to SaTSimulator, 
+i.e. all people that appear in some commits in Fast Downward's history
+(see below for a history on how Fast Downward emerged) or people that
+influenced the development of such commits.
+
+2019 Chiara Piacentini
+2019 Sara Bernardini
+
+History
+=======
+
+The current version SaTSimulator is based on a simulator originally
+developed by Sara Bernardini, Maria Fox and Derek Long. 
